@@ -1,7 +1,8 @@
 import React from 'react';
 import './About.css';
 
-function About() {
+function About(props) {
+  console.log(props);
   return (
     <div className="about-box">
       <span>This page is About Page : </span>

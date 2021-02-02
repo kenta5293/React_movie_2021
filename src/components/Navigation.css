@@ -16,11 +16,10 @@
   font-size: 1.2rem;
   font-weight: 500;
   text-decoration: none;
-  box-shadow: 0rem 0.4rem 0.4rem #bcb6ca66;
   transition: 0.2s;
 }
 
 .nav a:hover {
-  background-color: #252451;
-  box-shadow: 0rem 0.4rem 0.4rem #bcb6cad5;
+  background-color: #3f2874;
+  box-shadow: 0rem 0.2rem 0.8rem #797683d5;
 }
