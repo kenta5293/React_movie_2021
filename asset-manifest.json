@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_movie_project/static/css/main.3af27464.chunk.css",
-    "main.js": "/react_movie_project/static/js/main.dda6c31f.chunk.js",
-    "main.js.map": "/react_movie_project/static/js/main.dda6c31f.chunk.js.map",
-    "runtime-main.js": "/react_movie_project/static/js/runtime-main.b159aa4c.js",
-    "runtime-main.js.map": "/react_movie_project/static/js/runtime-main.b159aa4c.js.map",
-    "static/js/2.b9ab5a24.chunk.js": "/react_movie_project/static/js/2.b9ab5a24.chunk.js",
-    "static/js/2.b9ab5a24.chunk.js.map": "/react_movie_project/static/js/2.b9ab5a24.chunk.js.map",
-    "index.html": "/react_movie_project/index.html",
-    "static/css/main.3af27464.chunk.css.map": "/react_movie_project/static/css/main.3af27464.chunk.css.map",
-    "static/js/2.b9ab5a24.chunk.js.LICENSE.txt": "/react_movie_project/static/js/2.b9ab5a24.chunk.js.LICENSE.txt"
+    "main.css": "/react_movie_2021/static/css/main.3af27464.chunk.css",
+    "main.js": "/react_movie_2021/static/js/main.a57d1575.chunk.js",
+    "main.js.map": "/react_movie_2021/static/js/main.a57d1575.chunk.js.map",
+    "runtime-main.js": "/react_movie_2021/static/js/runtime-main.ab0d8b1e.js",
+    "runtime-main.js.map": "/react_movie_2021/static/js/runtime-main.ab0d8b1e.js.map",
+    "static/js/2.17e120d6.chunk.js": "/react_movie_2021/static/js/2.17e120d6.chunk.js",
+    "static/js/2.17e120d6.chunk.js.map": "/react_movie_2021/static/js/2.17e120d6.chunk.js.map",
+    "index.html": "/react_movie_2021/index.html",
+    "static/css/main.3af27464.chunk.css.map": "/react_movie_2021/static/css/main.3af27464.chunk.css.map",
+    "static/js/2.17e120d6.chunk.js.LICENSE.txt": "/react_movie_2021/static/js/2.17e120d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b159aa4c.js",
-    "static/js/2.b9ab5a24.chunk.js",
+    "static/js/runtime-main.ab0d8b1e.js",
+    "static/js/2.17e120d6.chunk.js",
     "static/css/main.3af27464.chunk.css",
-    "static/js/main.dda6c31f.chunk.js"
+    "static/js/main.a57d1575.chunk.js"
   ]
 }
