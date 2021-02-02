@@ -1,7 +1,13 @@
 import React from 'react';
+import './About.css';
 
 function About() {
-  return <span>About this page: I built it because I love Movie</span>;
+  return (
+    <div className="about-box">
+      <span>This page is About Page : </span>
+      <span>I built it because I love Movie</span>
+    </div>
+  );
 }
 
 export default About;
