@@ -9,13 +9,13 @@
   padding: 4rem;
 }
 
-.about-box > span {
+.about-box span {
   display: inline-block;
   padding: 2rem;
-  margin: 0.4rem 0;
+  margin: 0.4rem;
   border-radius: 0.4rem;
   background-color: #ffffff;
   font-size: 1.6rem;
-  box-shadow: 0rem 0.4rem 0.8rem 0rem hsla(255, 6%, 42%, 0.5);
+  box-shadow: 0rem 0.4rem 0.8rem 0rem #68657233;
   user-select: none;
 }
