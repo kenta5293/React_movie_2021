@@ -15,7 +15,9 @@ class Detail extends React.Component {
       return (
         <section className="movie-detail">
           <div>
-            <img src={location.state.poster} alt="movie-poster" />
+            <div className="movie-detail-poster">
+              <img src={location.state.poster} alt="movie-poster" />
+            </div>
             <div className="movie-detail-content">
               <h2 className="movie-title">{location.state.title}</h2>
               <p className="movie-year">{location.state.year}</p>
